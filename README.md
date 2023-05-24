@@ -1,4 +1,4 @@
 # C Library list
-List of usefull Cl libs.
+List of usefull C libs.
 
 
